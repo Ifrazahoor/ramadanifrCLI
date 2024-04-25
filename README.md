@@ -1,2 +1,2 @@
-# ramadanifrCLI
-this is Ramadhan_CLI
+# cli-number-guessing
+This is cli based number guessing game
